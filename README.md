@@ -1,5 +1,3 @@
-# group-project-group-r
-
 # Predicting The Reality Of House Prices In New Taipei City
 
 The data source:https://data.gov.tw/dataset/125903
