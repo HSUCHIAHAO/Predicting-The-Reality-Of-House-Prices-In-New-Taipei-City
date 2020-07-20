@@ -61,7 +61,6 @@ mode. It is fine to drop the row with null value, but sometimes it depends on th
 should carefully deal with null value in each column.
 #### Plan
 
-##### 1. Week 8~9:
 
 ● Data exploring
 To find the trend in each column, it is basic to visualize the data. Sometimes, it is
@@ -73,7 +72,6 @@ In reality, there are too many variables, so we need to condense them to make th
 regression become much simpler. Sometimes, the variable is category, and we can use
 one-hot encoding to keep the important variable in the dataset.
 
-##### 2. Week 10:
 
 ● Choose independent variables
 Pick those ideal independent variables for response in training and testing
