@@ -2,8 +2,6 @@
 
 # Predicting The Reality Of House Prices In New Taipei City
 
-### Group R members : CHIA-HAO HSU, Haoran Gao, Md Abu Osman
-
 The data source:https://data.gov.tw/dataset/125903
 
 ### Summary
